@@ -65,7 +65,7 @@ const Index = () => {
           <LinkButton href="#" icon={Mail} comingSoon>
             Join My Newsletter
           </LinkButton>
-          <LinkButton href="https://nestuge.com/qhagpl9ss" icon={Calendar}>
+          <LinkButton href="https://nestuge.me/technicalben" icon={Calendar}>
             Book a Consultation
           </LinkButton>
           <LinkButton href="#" icon={Video} comingSoon>
