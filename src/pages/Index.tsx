@@ -62,7 +62,7 @@ const Index = () => {
 
         {/* CTA Links Stack */}
         <div className="mb-8 flex flex-col gap-3">
-          <LinkButton href="#" icon={Mail} comingSoon>
+          <LinkButton href="https://nestuge.com/hhoeccnwq" icon={Mail}>
             Join My Newsletter
           </LinkButton>
           <LinkButton href="https://nestuge.me/technicalben" icon={Calendar}>
